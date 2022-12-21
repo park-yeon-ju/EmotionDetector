@@ -18,6 +18,7 @@ kaggle-Emotion Detection dataset과 YOLOv5s를 사용하여 만든 EmotionDetect
 - PyTorch Installation: https://pytorch.org/get-started/locally/
 - COCO Classes: https://gist.github.com/AruniRC/7b3da...
 - LabelImg: https://github.com/tzutalin/labelImg
+- https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
 
 참고
 - https://www.youtube.com/watch?v=tFNJGim3FXw
